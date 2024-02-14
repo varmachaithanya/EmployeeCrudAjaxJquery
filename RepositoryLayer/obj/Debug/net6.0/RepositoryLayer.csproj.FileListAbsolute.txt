@@ -62,3 +62,4 @@ C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\RepositoryLayer\bin\Debu
 C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\RepositoryLayer\bin\Debug\net6.0\CommonLayer.exe
 C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\RepositoryLayer\bin\Debug\net6.0\CommonLayer.dll
 C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\RepositoryLayer\bin\Debug\net6.0\CommonLayer.pdb
+C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.sourcelink.json

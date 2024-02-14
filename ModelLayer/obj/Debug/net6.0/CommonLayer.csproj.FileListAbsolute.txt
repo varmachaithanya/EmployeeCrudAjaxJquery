@@ -1,0 +1,14 @@
+C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\ModelLayer\bin\Debug\net6.0\CommonLayer.exe
+C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\ModelLayer\bin\Debug\net6.0\CommonLayer.deps.json
+C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\ModelLayer\bin\Debug\net6.0\CommonLayer.runtimeconfig.json
+C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\ModelLayer\bin\Debug\net6.0\CommonLayer.dll
+C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\ModelLayer\bin\Debug\net6.0\CommonLayer.pdb
+C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\ModelLayer\obj\Debug\net6.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\ModelLayer\obj\Debug\net6.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\ModelLayer\obj\Debug\net6.0\CommonLayer.AssemblyInfo.cs
+C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\ModelLayer\obj\Debug\net6.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\ModelLayer\obj\Debug\net6.0\CommonLayer.dll
+C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\ModelLayer\obj\Debug\net6.0\refint\CommonLayer.dll
+C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\ModelLayer\obj\Debug\net6.0\CommonLayer.pdb
+C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\ModelLayer\obj\Debug\net6.0\CommonLayer.genruntimeconfig.cache
+C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\ModelLayer\obj\Debug\net6.0\ref\CommonLayer.dll

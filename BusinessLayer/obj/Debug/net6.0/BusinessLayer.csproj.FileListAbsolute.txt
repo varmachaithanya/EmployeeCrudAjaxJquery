@@ -65,3 +65,4 @@ C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\BusinessLayer\bin\Debug\
 C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.pdb
 C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
 C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Chaithanya\source\repos\EmployeeCrudAjaxJquery\BusinessLayer\obj\Debug\net6.0\BusinessLayer.sourcelink.json
